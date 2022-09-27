@@ -1,4 +1,4 @@
-package ques2;
+package interface_multiple_inheritance;
 
 public interface Polygon {
 	void edges(int a);
