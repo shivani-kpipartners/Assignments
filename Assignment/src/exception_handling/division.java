@@ -7,11 +7,19 @@ public class division {
 		try {
             int number[] = new int[10];
             number[10] = 30 / 0;
-        }
+            System.out.println(number);}
+            
         catch (ArithmeticException e) {
             System.out.println(
-                "Number can not be divided by zero");
+                "Arithmetic Expression");
+            
+       
         }
+		finally {
+			System.out.println(
+	                "Number can not be divided by zero");
+			
+		}
         }
     }
 	
