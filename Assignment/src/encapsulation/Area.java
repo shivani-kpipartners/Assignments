@@ -8,9 +8,11 @@ public class Area {
 		}
 		
 		public Area(int length, int breadth) {
+			
 		}
 		
 		public Area(double a, double b) {
+			
 		}
 
 		public static void main(String[] args) {
