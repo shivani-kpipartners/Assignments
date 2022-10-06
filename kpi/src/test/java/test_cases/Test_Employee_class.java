@@ -1,4 +1,4 @@
-package kpi;
+package test_cases;
 
 import static org.junit.Assert.assertEquals;
 

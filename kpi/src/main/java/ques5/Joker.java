@@ -36,4 +36,11 @@ public class Joker {
 		Joker H1 = new Joker("H", "Giddha");
 		
 	}
+
+	public String Joker(String string, String string2) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
 }
